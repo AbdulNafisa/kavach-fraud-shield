@@ -29,4 +29,4 @@ kavach/
 
 ## Submission
 ET AI Hackathon 2.0 · Phase 2 · Problem Statement 6
-Submitted by: Abdul Nafisa Sulthana | Deadline: 22nd July 2026
+
